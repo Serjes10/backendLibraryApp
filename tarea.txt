@@ -1,0 +1,19 @@
+--Investigar y tratar de crear lo siguiente
+
+en el archivo autorRoutes.js
+
+=> tratar de crear la ruta para insertar un autor(post) 
+ => tratar de crear la ruta para actualizar un autor(put) 
+
+
+
+ ++++++++++++++++adicional+++++++++++++++++
+ --crear dentro de routes el codigo necesario para mostrar, insertar y acualizar en la tabla libros
+ --Se pueden guiar del primer archivo 
+ --Recuerden tener los procedimientos listos y probados antes
+ --verificar que conecte nodejs con sqlserver
+ --cualquier duda o consulta escribir al grupo
+
+
+
+
